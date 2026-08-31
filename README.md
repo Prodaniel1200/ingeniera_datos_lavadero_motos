@@ -41,6 +41,14 @@ python3 src/clean_staging.py    # genera data/staging/servicios_staging.csv
 python3 src/analisis.py         # imprime las respuestas analíticas
 ```
 
+### Regenerar el informe (.docx)
+El informe formal (`Informe_Proyecto_Lavadero_Motos.docx`) se genera con Node.js
+a partir de `src/generar_informe.js`:
+```bash
+npm install
+node src/generar_informe.js     # o: npm run informe
+```
+
 ## Resultados del corte (evidencia de ejecución)
 - Registros en RAW: 186
 - Duplicados exactos removidos: 6

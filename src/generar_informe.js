@@ -4,6 +4,10 @@ const {
   PageNumber, NumberFormat
 } = require("docx");
 const fs = require("fs");
+const path = require("path");
+
+// Se guarda en la raíz del repositorio sin importar desde dónde se ejecute el script
+const RUTA_SALIDA = path.join(__dirname, "..", "Informe_Proyecto_Lavadero_Motos.docx");
 
 const AZUL = "1F4E79";
 const GRIS_CLARO = "F2F2F2";
@@ -251,6 +255,6 @@ const doc = new Document({
 });
 
 Packer.toBuffer(doc).then((buffer) => {
-  fs.writeFileSync("/home/claude/lavadero-motos/Informe_Proyecto_Lavadero_Motos.docx", buffer);
-  console.log("Documento generado");
+  fs.writeFileSync(RUTA_SALIDA, buffer);
+  console.log(`Documento generado en ${RUTA_SALIDA}`);
 });

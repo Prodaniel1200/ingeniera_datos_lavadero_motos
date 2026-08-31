@@ -1,0 +1,12 @@
+{
+  "name": "lavadero-motos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Genera el informe formal (.docx) del proyecto integrador Lavadero de Motos.",
+  "scripts": {
+    "informe": "node src/generar_informe.js"
+  },
+  "dependencies": {
+    "docx": "^9.7.1"
+  }
+}

@@ -1,6 +1,6 @@
 """
 Capa analítica: consume data/staging/servicios_staging.csv (nunca el RAW)
-y responde las preguntas analíticas definidas en docs/preguntas_analiticas.md
+y responde las preguntas analíticas definidas en docs/modelo_conceptual.md
 """
 import pandas as pd
 
