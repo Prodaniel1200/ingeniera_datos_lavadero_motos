@@ -1,0 +1,187 @@
+id_servicio,placa,tipo_moto,tipo_servicio,precio,fecha
+1,JKL56F,deportiva,basico,8000,2026-07-21
+2,ABC12D,,basico,8000,19/07/2026
+3,EAC99G,scooter,,,2026-07-14
+4,FFE15H,,Completo,15000,2026-07-04
+5,BAD47B,scooter,Completo,15000,29/07/2026
+6,EBC78D,scooter,ENCERADO,22000,06/07/2026
+7,ABC12D,scooter,basico,8000,2026-07-27
+8,HCE27D,cilindraje alto,ENCERADO,22000,
+9,CJH21A,cilindraje alto,Básico,,2026-07-12
+10,HJE80A,scooter,encerado,22000,2026-07-20
+11,HAE74C,,ENCERADO,22000,04/07/2026
+12,CJJ10F,scooter,completo,15000,2026-07-07
+13,ABC12D,trabajo,basico,8000,2026-07-08
+14,JCE77G,trabajo,,,
+15,FHJ67B,trabajo,basico,8000,23/07/2026
+16,adb14f,,ENCERADO,22000,2026-07-01
+17,MNO78G,cilindraje alto,basico,8000,19/07/2026
+18,abc12d,deportiva,,,
+19,MNO78G,cilindraje alto,Completo,15000,2026-07-08
+20,ABC12D,trabajo,,,
+21,dga31g,cilindraje alto,,,06/07/2026
+22,JHC34E,deportiva,ENCERADO,22000,10/07/2026
+23,JCA75B,deportiva,basico,8000,
+24,ABC12D,scooter,encerado,22000,
+25,DEG26E,,basico,-8000,
+26,JEC54B,cilindraje alto,Básico,,2026-07-04
+27,JAJ48B,trabajo,basico,8000,
+28,FDE74H,scooter,basico,8000,09/07/2026
+29,CEC66J,trabajo,basico,8000,2026-07-02
+30,JCG26A,deportiva,,,2026-07-18
+31,XYZ34E,,encerado,22000,29/07/2026
+32,DCC62A,cilindraje alto,,,2026-07-24
+33,,cilindraje alto,Completo,15000,
+34,DDA94D,,basico,8000,12/07/2026
+35,JFA24E,scooter,completo,-15000,
+36,JBG83D,trabajo,basico,8000,24/07/2026
+37,JKL56F,scooter,basico,8000,12/07/2026
+38,EJC34G,scooter,ENCERADO,22000,22/07/2026
+39,EED65F,,Básico,,
+40,ABC12D,trabajo,encerado,22000,
+41,XYZ34E,cilindraje alto,Completo,15000,22/07/2026
+42,,deportiva,,,
+43,mno78g,deportiva,,,25/07/2026
+44,JJF66J,cilindraje alto,Completo,15000,2026-07-15
+45,EJH90D,,completo,15000,15/07/2026
+46,MNO78G,cilindraje alto,basico,8000,2026-07-03
+47,MNO78G,,ENCERADO,-22000,2026-07-14
+48,JKL56F,cilindraje alto,,,13/07/2026
+49,DHD44G,trabajo,ENCERADO,22000,
+50,JAG85A,cilindraje alto,,,27/07/2026
+51,JKL56F,cilindraje alto,,,2026-07-06
+52,ABC12D,deportiva,basico,8000,09/07/2026
+53,ABC12D,cilindraje alto,basico,8000,
+54,DHE57C,scooter,ENCERADO,22000,2026-07-22
+55,JKL56F,deportiva,Completo,15000,
+56,DBE97B,scooter,basico,8000,
+57,AGH23G,cilindraje alto,,,
+58,JEJ71H,deportiva,completo,15000,2026-07-23
+59,MNO78G,trabajo,completo,-15000,09/07/2026
+60,EFE86E,deportiva,Básico,,2026-07-16
+61,,scooter,completo,15000,
+62,JJF64J,trabajo,completo,15000,
+63,CDD71E,trabajo,encerado,22000,2026-07-11
+64,eaj26e,cilindraje alto,completo,15000,2026-07-10
+65,HHH53C,cilindraje alto,,,2026-07-04
+66,BAC29E,,encerado,22000,2026-07-04
+67,HEG49A,trabajo,,,
+68,ABC12D,,basico,8000,2026-07-21
+69,JKL56F,scooter,Completo,15000,16/07/2026
+70,DGB79D,trabajo,,,
+71,JKL56F,scooter,completo,15000,2026-07-03
+72,JJH66B,deportiva,ENCERADO,22000,23/07/2026
+73,AEA32H,cilindraje alto,completo,15000,
+74,FFB30F,,ENCERADO,22000,03/07/2026
+75,JKL56F,deportiva,Completo,15000,02/07/2026
+76,ADJ56H,scooter,Básico,,
+77,HHB13D,deportiva,basico,8000,2026-07-18
+78,CHE75E,cilindraje alto,Completo,15000,2026-07-15
+79,CBE63F,deportiva,,,
+80,MNO78G,,Completo,15000,
+81,ddg39g,trabajo,ENCERADO,22000,13/07/2026
+82,JKL56F,deportiva,Completo,15000,2026-07-16
+83,CBH43F,,basico,8000,2026-07-24
+84,HJA89B,cilindraje alto,completo,15000,13/07/2026
+85,BHC98E,deportiva,,,
+86,CDJ62C,cilindraje alto,,,10/07/2026
+87,XYZ34E,cilindraje alto,Completo,,
+88,CBH54E,cilindraje alto,completo,15000,29/07/2026
+89,MNO78G,cilindraje alto,ENCERADO,22000,28/07/2026
+90,AHE39F,trabajo,completo,15000,2026-07-09
+91,AEH14F,trabajo,completo,15000,2026-07-21
+92,FJJ44C,scooter,Completo,15000,
+93,BCD96G,scooter,completo,15000,2026-07-26
+94,EGF23D,deportiva,encerado,22000,2026-07-18
+95,EGB27A,,Completo,15000,21/07/2026
+96,JGC63B,cilindraje alto,completo,-15000,05/07/2026
+97,bfj92f,deportiva,basico,8000,2026-07-15
+98,AAF41C,,,,2026-07-22
+99,XYZ34E,trabajo,encerado,-22000,
+100,XYZ34E,deportiva,Básico,,
+101,ACE16C,scooter,ENCERADO,22000,2026-07-12
+102,XYZ34E,,,,
+103,AAH61G,,Completo,15000,10/07/2026
+104,JKL56F,deportiva,completo,15000,2026-07-05
+105,XYZ34E,cilindraje alto,Completo,15000,
+106,fef29h,scooter,basico,8000,2026-07-24
+107,JJF95B,cilindraje alto,,,2026-07-26
+108,JKL56F,cilindraje alto,encerado,22000,
+109,JFB45D,,,,2026-07-08
+110,AEA33E,trabajo,completo,15000,
+111,CAB77D,scooter,Básico,,
+112,BAC30A,cilindraje alto,ENCERADO,22000,
+113,BFG24E,cilindraje alto,encerado,,2026-07-09
+114,JKL56F,scooter,,,2026-07-20
+115,MNO78G,,Completo,15000,10/07/2026
+116,BGA65A,cilindraje alto,completo,15000,
+117,FCH98F,cilindraje alto,Básico,,2026-07-10
+118,GEF38F,scooter,ENCERADO,22000,19/07/2026
+119,CDB28E,deportiva,,,
+120,hff29h,scooter,completo,15000,
+121,haa57e,deportiva,,,2026-07-17
+122,HJA67D,deportiva,Básico,,
+123,fbj92c,scooter,Completo,15000,2026-07-15
+124,FAF18F,,completo,15000,12/07/2026
+125,CFE93G,scooter,basico,8000,2026-07-28
+126,jbg75f,scooter,Básico,,2026-07-27
+127,XYZ34E,deportiva,,,31/07/2026
+128,JAF89C,,Básico,,
+129,AGF96D,cilindraje alto,,,2026-07-26
+130,MNO78G,cilindraje alto,ENCERADO,22000,
+131,JJG30D,scooter,completo,15000,25/07/2026
+132,JBE20C,cilindraje alto,Básico,,2026-07-18
+133,FAG16G,deportiva,basico,,2026-07-03
+134,CCA46H,deportiva,ENCERADO,22000,
+135,XYZ34E,trabajo,encerado,22000,01/07/2026
+136,MNO78G,,basico,8000,2026-07-10
+137,DCE64A,,Completo,15000,2026-07-18
+138,JJJ80A,deportiva,ENCERADO,22000,2026-07-12
+139,BFC15F,cilindraje alto,Básico,,2026-07-12
+140,CBH14E,cilindraje alto,basico,8000,23/07/2026
+141,ADE55A,cilindraje alto,basico,8000,
+142,GFC73H,deportiva,completo,15000,24/07/2026
+143,CJE51B,trabajo,completo,15000,
+144,afg45a,trabajo,completo,15000,23/07/2026
+145,mno78g,scooter,,,2026-07-31
+146,ACH57F,,Básico,,12/07/2026
+147,EDB13C,cilindraje alto,encerado,22000,12/07/2026
+148,MNO78G,cilindraje alto,basico,8000,
+149,FFB80J,trabajo,Básico,,
+150,bdc40h,trabajo,completo,15000,26/07/2026
+151,MNO78G,,encerado,22000,2026-07-20
+152,BHH97J,,,,2026-07-03
+153,XYZ34E,scooter,basico,8000,
+154,DFJ46B,,encerado,22000,2026-07-06
+155,CCC94F,deportiva,,,2026-07-18
+156,EDG89A,trabajo,completo,15000,2026-07-03
+157,HBA30H,scooter,completo,15000,
+158,CFJ81B,deportiva,completo,15000,24/07/2026
+159,GDC51F,cilindraje alto,encerado,22000,10/07/2026
+160,jhd37f,cilindraje alto,encerado,22000,2026-07-01
+161,ABC12D,deportiva,ENCERADO,22000,
+162,DFJ46B,,encerado,22000,2026-07-13
+163,GFF81F,deportiva,encerado,,2026-07-04
+164,HJH29J,scooter,completo,15000,
+165,,,completo,15000,19/07/2026
+166,AHE93D,,Básico,,
+167,GCD14B,cilindraje alto,Completo,15000,
+168,ACJ36J,cilindraje alto,encerado,22000,
+169,FEH34D,cilindraje alto,completo,15000,
+170,EEB83J,scooter,,,11/07/2026
+171,JKL56F,trabajo,Completo,15000,2026-07-31
+172,JKL56F,,encerado,22000,
+173,ABC12D,,basico,8000,
+174,HHD46F,deportiva,,,2026-07-30
+175,ABC12D,trabajo,,,
+176,ghc47a,cilindraje alto,basico,8000,2026-07-30
+177,CJH44D,trabajo,ENCERADO,22000,
+178,EDC88G,trabajo,basico,8000,
+179,AEG40H,scooter,completo,15000,16/07/2026
+180,ABH49C,scooter,ENCERADO,22000,21/07/2026
+95,EGB27A,,Completo,15000,21/07/2026
+158,CFJ81B,deportiva,completo,15000,24/07/2026
+57,AGH23G,cilindraje alto,,,
+57,AGH23G,cilindraje alto,,,
+35,JFA24E,scooter,completo,-15000,
+123,fbj92c,scooter,Completo,15000,2026-07-15

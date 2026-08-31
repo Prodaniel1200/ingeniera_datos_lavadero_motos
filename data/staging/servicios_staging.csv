@@ -1,0 +1,86 @@
+id_servicio,placa,tipo_moto,tipo_servicio,precio,fecha
+1,JKL56F,deportiva,basico,8000,2026-07-21
+2,ABC12D,no_registrado,basico,8000,2026-07-19
+4,FFE15H,no_registrado,completo,15000,2026-07-04
+5,BAD47B,scooter,completo,15000,2026-07-29
+6,EBC78D,scooter,encerado,22000,2026-07-06
+7,ABC12D,scooter,basico,8000,2026-07-27
+10,HJE80A,scooter,encerado,22000,2026-07-20
+11,HAE74C,no_registrado,encerado,22000,2026-07-04
+12,CJJ10F,scooter,completo,15000,2026-07-07
+13,ABC12D,trabajo,basico,8000,2026-07-08
+15,FHJ67B,trabajo,basico,8000,2026-07-23
+16,ADB14F,no_registrado,encerado,22000,2026-07-01
+17,MNO78G,cilindraje alto,basico,8000,2026-07-19
+19,MNO78G,cilindraje alto,completo,15000,2026-07-08
+22,JHC34E,deportiva,encerado,22000,2026-07-10
+28,FDE74H,scooter,basico,8000,2026-07-09
+29,CEC66J,trabajo,basico,8000,2026-07-02
+31,XYZ34E,no_registrado,encerado,22000,2026-07-29
+34,DDA94D,no_registrado,basico,8000,2026-07-12
+36,JBG83D,trabajo,basico,8000,2026-07-24
+37,JKL56F,scooter,basico,8000,2026-07-12
+38,EJC34G,scooter,encerado,22000,2026-07-22
+41,XYZ34E,cilindraje alto,completo,15000,2026-07-22
+44,JJF66J,cilindraje alto,completo,15000,2026-07-15
+45,EJH90D,no_registrado,completo,15000,2026-07-15
+46,MNO78G,cilindraje alto,basico,8000,2026-07-03
+47,MNO78G,no_registrado,encerado,22000,2026-07-14
+52,ABC12D,deportiva,basico,8000,2026-07-09
+54,DHE57C,scooter,encerado,22000,2026-07-22
+58,JEJ71H,deportiva,completo,15000,2026-07-23
+59,MNO78G,trabajo,completo,15000,2026-07-09
+63,CDD71E,trabajo,encerado,22000,2026-07-11
+64,EAJ26E,cilindraje alto,completo,15000,2026-07-10
+66,BAC29E,no_registrado,encerado,22000,2026-07-04
+68,ABC12D,no_registrado,basico,8000,2026-07-21
+69,JKL56F,scooter,completo,15000,2026-07-16
+71,JKL56F,scooter,completo,15000,2026-07-03
+72,JJH66B,deportiva,encerado,22000,2026-07-23
+74,FFB30F,no_registrado,encerado,22000,2026-07-03
+75,JKL56F,deportiva,completo,15000,2026-07-02
+77,HHB13D,deportiva,basico,8000,2026-07-18
+78,CHE75E,cilindraje alto,completo,15000,2026-07-15
+81,DDG39G,trabajo,encerado,22000,2026-07-13
+82,JKL56F,deportiva,completo,15000,2026-07-16
+83,CBH43F,no_registrado,basico,8000,2026-07-24
+84,HJA89B,cilindraje alto,completo,15000,2026-07-13
+88,CBH54E,cilindraje alto,completo,15000,2026-07-29
+89,MNO78G,cilindraje alto,encerado,22000,2026-07-28
+90,AHE39F,trabajo,completo,15000,2026-07-09
+91,AEH14F,trabajo,completo,15000,2026-07-21
+93,BCD96G,scooter,completo,15000,2026-07-26
+94,EGF23D,deportiva,encerado,22000,2026-07-18
+95,EGB27A,no_registrado,completo,15000,2026-07-21
+96,JGC63B,cilindraje alto,completo,15000,2026-07-05
+97,BFJ92F,deportiva,basico,8000,2026-07-15
+101,ACE16C,scooter,encerado,22000,2026-07-12
+103,AAH61G,no_registrado,completo,15000,2026-07-10
+104,JKL56F,deportiva,completo,15000,2026-07-05
+106,FEF29H,scooter,basico,8000,2026-07-24
+115,MNO78G,no_registrado,completo,15000,2026-07-10
+118,GEF38F,scooter,encerado,22000,2026-07-19
+123,FBJ92C,scooter,completo,15000,2026-07-15
+124,FAF18F,no_registrado,completo,15000,2026-07-12
+125,CFE93G,scooter,basico,8000,2026-07-28
+131,JJG30D,scooter,completo,15000,2026-07-25
+135,XYZ34E,trabajo,encerado,22000,2026-07-01
+136,MNO78G,no_registrado,basico,8000,2026-07-10
+137,DCE64A,no_registrado,completo,15000,2026-07-18
+138,JJJ80A,deportiva,encerado,22000,2026-07-12
+140,CBH14E,cilindraje alto,basico,8000,2026-07-23
+142,GFC73H,deportiva,completo,15000,2026-07-24
+144,AFG45A,trabajo,completo,15000,2026-07-23
+147,EDB13C,cilindraje alto,encerado,22000,2026-07-12
+150,BDC40H,trabajo,completo,15000,2026-07-26
+151,MNO78G,no_registrado,encerado,22000,2026-07-20
+154,DFJ46B,no_registrado,encerado,22000,2026-07-06
+156,EDG89A,trabajo,completo,15000,2026-07-03
+158,CFJ81B,deportiva,completo,15000,2026-07-24
+159,GDC51F,cilindraje alto,encerado,22000,2026-07-10
+160,JHD37F,cilindraje alto,encerado,22000,2026-07-01
+162,DFJ46B,no_registrado,encerado,22000,2026-07-13
+171,JKL56F,trabajo,completo,15000,2026-07-31
+176,GHC47A,cilindraje alto,basico,8000,2026-07-30
+179,AEG40H,scooter,completo,15000,2026-07-16
+180,ABH49C,scooter,encerado,22000,2026-07-21
