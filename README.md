@@ -24,21 +24,24 @@ lavadero-motos/
 ├── src/
 │   ├── generar_raw.py     # Simula la fuente original (se corre una sola vez)
 │   ├── clean_staging.py   # RAW -> STAGING según el contrato de datos
-│   └── analisis.py        # Capa analítica: responde las preguntas de negocio
+│   ├── analisis.py        # Capa analítica: responde las preguntas de negocio
+│   └── generar_diagramas.py  # Genera los diagramas de docs/img/
 ├── docs/
 │   ├── contrato_diccionario.md   # Contrato de datos y diccionario (Componente 2)
 │   ├── mapa_viaje_dato.md        # Arquitectura por capas y trazabilidad
 │   ├── modelo_conceptual.md      # Modelo dimensional (hechos y dimensiones)
-│   └── riesgos_pendientes.md     # Riesgos priorizados para semanas 4 y 5
+│   ├── riesgos_pendientes.md     # Riesgos priorizados para semanas 4 y 5
+│   └── img/                      # arquitectura_capas.png y modelo_estrella.png
 └── README.md
 ```
 
 ## Cómo ejecutar
 ```bash
-pip install pandas
+pip install pandas matplotlib
 python3 src/generar_raw.py      # genera data/raw/servicios_raw.csv
 python3 src/clean_staging.py    # genera data/staging/servicios_staging.csv
 python3 src/analisis.py         # imprime las respuestas analíticas
+python3 src/generar_diagramas.py  # genera docs/img/arquitectura_capas.png y modelo_estrella.png
 ```
 
 ### Regenerar el informe (.docx)
