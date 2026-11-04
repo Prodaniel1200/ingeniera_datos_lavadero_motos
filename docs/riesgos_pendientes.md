@@ -2,7 +2,7 @@
 
 | Prioridad | Riesgo / pendiente | Impacto | Acción propuesta |
 |---|---|---|---|
-| Alta | ~51% de los registros del RAW se descartan por fecha o placa faltante | Reduce el volumen útil de análisis | Diseñar un formulario de captura con campos obligatorios (evita el error en la fuente) |
+| Alta | ~45% de los registros del RAW (84 de 186) se descartan por fecha, placa o servicio faltante | Reduce el volumen útil de análisis | Diseñar un formulario de captura con campos obligatorios (evita el error en la fuente) |
 | Alta | El catálogo de precios está fijo en el código (hardcoded) | Si el lavadero sube precios, hay que tocar el script | Mover el catálogo de precios a un archivo de configuración/dimensión separada |
 | Media | No hay dimensión de "empleado responsable del servicio" | No se puede medir productividad por empleado | Agregar el campo en la próxima captura de datos |
 | Media | El modelo no diferencia clientes nuevos vs. recurrentes de forma explícita | Se infiere solo contando placas repetidas | Crear una dimensión CLIENTE con fecha de primera visita |

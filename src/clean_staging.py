@@ -42,7 +42,7 @@ def corregir_precio(row):
         p = float(row["precio"])
     except (ValueError, TypeError):
         p = None
-    if p is None or p <= 0:
+    if p is None or pd.isna(p) or p <= 0:
         return PRECIOS_CATALOGO.get(row["tipo_servicio"], None)
     return p
 

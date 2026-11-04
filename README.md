@@ -52,14 +52,17 @@ node src/generar_informe.js     # o: npm run informe
 ## Resultados del corte (evidencia de ejecución)
 - Registros en RAW: 186
 - Duplicados exactos removidos: 6
-- Registros descartados por datos no recuperables: 95
-- Registros válidos en STAGING: 85
+- Registros descartados por datos no recuperables: 84
+- Registros válidos en STAGING: 96
 - Servicio más solicitado: **completo** (36 servicios)
-- Ingreso total del mes: **$1.310.000**
-- Ticket promedio: **$15.412**
+- Ingreso total del mes: **$1.426.000**
+- Ticket promedio: **$14.854**
+
+> v2.0: `corregir_precio` ahora también recalcula los precios vacíos
+> (antes esas filas se descartaban). Por eso STAGING pasó de 85 a 96 registros.
 
 ## Conclusiones técnicas
-- Conservar el RAW sin modificar permitió detectar que más de la mitad de
+- Conservar el RAW sin modificar permitió detectar que casi la mitad de
   los registros originales tenían problemas de completitud (fecha o placa
   faltante), lo que es información valiosa para el dueño del negocio: el
   problema no es de análisis, es de captura de datos en el origen.
